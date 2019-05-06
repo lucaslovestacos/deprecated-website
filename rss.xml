@@ -2,32 +2,30 @@
   <channel>
     <title>Tricycle Trio on SoundCloud</title>
     <description>Tricycle Trio on SoundCloud</description>
-    <pubDate>Mon, 06 May 2019 22:33:36 +0000</pubDate>
+    <pubDate>Mon, 06 May 2019 22:55:08 +0000</pubDate>
     <generator>FetchRSS</generator>
     <link>http://soundcloud.com/user-785811273</link>
-    <atom:link href="http://fetchrss.com/rss/5cd0b62b8a93f886698b45675cd0b6178a93f821668b4567.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://fetchrss.com/rss/5cd0b62b8a93f886698b45675cd0bb478a93f884208b4567.xml" rel="self" type="application/rss+xml"/>
     <image>
       <link>http://soundcloud.com/user-785811273</link>
-        <url>
-          https://res.cloudinary.com/dh2eofcns/image/upload/v1557181787/covers/5cd0b6178a93f821668b4567.png?v=28d74
-        </url>
-    <title>Tricycle Trio on SoundCloud</title>
+      <url>
+        https://res.cloudinary.com/dh2eofcns/image/upload/v1557183079/covers/5cd0bb478a93f884208b4567.jpg?v=4bfe3
+      </url>
+      <title>Tricycle Trio on SoundCloud</title>
     </image>
-  
     <item>
       <title>Intro</title>
-      <link>https://soundcloud.com/user-785811273/intro</link>
-      <author>tricycletriopodcast@gmail.com</author>
-      <description>
-        <![CDATA[
-          <br /> <br /><span style="font-size:12px; color: gray;">(Feed generated with <a href="http://fetchrss.com" target="_blank">FetchRSS</a>)</span>
-        ]]>
-      </description>
-      <dc:creator>Tricycle Trio</dc:creator>
-      <pubDate>Mon, 06 May 2019 22:27:04 +0000</pubDate>
-      <guid>https://soundcloud.com/user-785811273/intro</guid>
+        <link>https://soundcloud.com/user-785811273/intro</link>
+        <author>tricycletriopodcast@gmail.com</author>
+        <description>
+          <![CDATA[
+            <img src="https://i1.sndcdn.com/artworks-000530865267-ylwzrd-large.jpg"><br> <br /> <br /><span style="font-size:12px; color: gray;">(Feed generated with <a href="http://fetchrss.com" target="_blank">FetchRSS</a>)</span>
+          ]]>
+        </description>
+        <dc:creator>Tricycle Trio</dc:creator>
+        <pubDate>Mon, 06 May 2019 22:27:04 +0000</pubDate>
+        <media:content url="https://i1.sndcdn.com/artworks-000530865267-ylwzrd-large.jpg" medium="image"/>
+        <guid>https://soundcloud.com/user-785811273/intro</guid>
     </item>
-
   </channel>
-
 </rss>
