@@ -1,13 +1,25 @@
-<script>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #FFAAAA;
+  border: none;
+  color: white;
+  padding: 25px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
 
-clickerbutton.onclick = function(){myScript};
+.button:hover {
+  background-color: green;
+}
+</style>
+</head>
+<body>
 
-function draw() {
-  var canvas = document.getElementById('canvas');
-  if (canvas.getContext) {
-    var clickerbutton = canvas.getContext('2d');
+<button class="button">Click Me!!</button>
 
-    clickerbutton.fillRect(20,20,100,100);
-    clickerbutton.clearRect(40,40,60,60);
-    clickerbutton.strokeRect(45,45,50,50);
-</script>
+</body>
+</html>
