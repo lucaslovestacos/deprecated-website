@@ -1,1 +1,13 @@
-<h1> test </h1>
+<script>
+
+clickerbutton.onclick = function(){myScript};
+
+function draw() {
+  var canvas = document.getElementById('canvas');
+  if (canvas.getContext) {
+    var clickerbutton = canvas.getContext('2d');
+
+    clickerbutton.fillRect(20,20,100,100);
+    clickerbutton.clearRect(40,40,60,60);
+    clickerbutton.strokeRect(45,45,50,50);
+</script>
